@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/bdhill/CruzHacks2020/user-interface-samples/Notifications/Shared/build/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/bdhill/.gradle/caches/transforms-2/files-2.1/2ffb88316df49107418be0872d7babe4/core-1.0.0/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/bdhill/CruzHacks2020/user-interface-samples/Notifications/Shared/build/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/bdhill/.gradle/caches/transforms-2/files-2.1/2ffb88316df49107418be0872d7babe4/core-1.0.0/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/bdhill/CruzHacks2020/user-interface-samples/Notifications/Shared/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_message_black_18dp.png",
+        "source": "/Users/bdhill/CruzHacks2020/user-interface-samples/Notifications/Shared/src/main/res/drawable-hdpi/ic_message_black_18dp.png"
+    },
+    {
+        "merged": "/Users/bdhill/CruzHacks2020/user-interface-samples/Notifications/Shared/build/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/bdhill/.gradle/caches/transforms-2/files-2.1/2ffb88316df49107418be0872d7babe4/core-1.0.0/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/bdhill/CruzHacks2020/user-interface-samples/Notifications/Shared/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/bdhill/CruzHacks2020/user-interface-samples/Notifications/Shared/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/bdhill/CruzHacks2020/user-interface-samples/Notifications/Shared/build/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/bdhill/.gradle/caches/transforms-2/files-2.1/2ffb88316df49107418be0872d7babe4/core-1.0.0/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/bdhill/CruzHacks2020/user-interface-samples/Notifications/Shared/build/intermediates/res/merged/release/drawable-hdpi-v4/me_macdonald.png",
+        "source": "/Users/bdhill/CruzHacks2020/user-interface-samples/Notifications/Shared/src/main/res/drawable-hdpi/me_macdonald.png"
+    },
+    {
+        "merged": "/Users/bdhill/CruzHacks2020/user-interface-samples/Notifications/Shared/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_n_white_48dp.png",
+        "source": "/Users/bdhill/CruzHacks2020/user-interface-samples/Notifications/Shared/src/main/res/drawable-hdpi/ic_n_white_48dp.png"
+    },
+    {
+        "merged": "/Users/bdhill/CruzHacks2020/user-interface-samples/Notifications/Shared/build/intermediates/res/merged/release/drawable-hdpi-v4/wendy_wonda.png",
+        "source": "/Users/bdhill/CruzHacks2020/user-interface-samples/Notifications/Shared/src/main/res/drawable-hdpi/wendy_wonda.png"
+    },
+    {
+        "merged": "/Users/bdhill/CruzHacks2020/user-interface-samples/Notifications/Shared/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_alarm_white_48dp.png",
+        "source": "/Users/bdhill/CruzHacks2020/user-interface-samples/Notifications/Shared/src/main/res/drawable-hdpi/ic_alarm_white_48dp.png"
+    },
+    {
+        "merged": "/Users/bdhill/CruzHacks2020/user-interface-samples/Notifications/Shared/build/intermediates/res/merged/release/drawable-hdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/bdhill/.gradle/caches/transforms-2/files-2.1/2ffb88316df49107418be0872d7babe4/core-1.0.0/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/bdhill/CruzHacks2020/user-interface-samples/Notifications/Shared/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_reply_white_18dp.png",
+        "source": "/Users/bdhill/CruzHacks2020/user-interface-samples/Notifications/Shared/src/main/res/drawable-hdpi/ic_reply_white_18dp.png"
+    },
+    {
+        "merged": "/Users/bdhill/CruzHacks2020/user-interface-samples/Notifications/Shared/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_person_black_48dp.png",
+        "source": "/Users/bdhill/CruzHacks2020/user-interface-samples/Notifications/Shared/src/main/res/drawable-hdpi/ic_person_black_48dp.png"
+    },
+    {
+        "merged": "/Users/bdhill/CruzHacks2020/user-interface-samples/Notifications/Shared/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_cancel_white_48dp.png",
+        "source": "/Users/bdhill/CruzHacks2020/user-interface-samples/Notifications/Shared/src/main/res/drawable-hdpi/ic_cancel_white_48dp.png"
+    },
+    {
+        "merged": "/Users/bdhill/CruzHacks2020/user-interface-samples/Notifications/Shared/build/intermediates/res/merged/release/drawable-hdpi-v4/famous_fryer.png",
+        "source": "/Users/bdhill/CruzHacks2020/user-interface-samples/Notifications/Shared/src/main/res/drawable-hdpi/famous_fryer.png"
+    },
+    {
+        "merged": "/Users/bdhill/CruzHacks2020/user-interface-samples/Notifications/Shared/build/intermediates/res/merged/release/drawable-hdpi-v4/earth.png",
+        "source": "/Users/bdhill/CruzHacks2020/user-interface-samples/Notifications/Shared/src/main/res/drawable-hdpi/earth.png"
+    }
+]

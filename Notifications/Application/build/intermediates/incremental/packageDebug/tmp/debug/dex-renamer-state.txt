@@ -1,0 +1,4 @@
+#Fri Jan 17 19:55:23 PST 2020
+base.0=/Users/bdhill/CruzHacks2020/user-interface-samples/Notifications/Application/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

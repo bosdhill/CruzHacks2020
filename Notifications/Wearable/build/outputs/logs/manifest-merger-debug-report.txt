@@ -1,0 +1,304 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:17:1-99:12
+INJECTED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:17:1-99:12
+INJECTED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:17:1-99:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/cb634fe4b4d1fdfcd5255e485d30a0c1/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/37ec02f661e3547c5499ecdfd9f3cd1f/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.wear:wear:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/9c69c3cfae028b3016af07e857fcff66/wear-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/cc028c87913dc4f8383a8eb92978b3bc/legacy-support-v13-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-wearable:17.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/b147091a173b9180aa4a486531b55908/play-services-wearable-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.support:wearable:2.5.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/8265b01d6639d6795602213fbd5ec0dd/jetified-wearable-2.5.0/AndroidManifest.xml:2:1-15:12
+MERGED from [:Shared] /Users/bdhill/CruzHacks2020/Notifications/Shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:1-26:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/1964611a1907e3ea07b40ce4c516c284/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/291563c6708268cf4683b088770f2b39/play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/3087f829ad78da1f0d52970740cc50c8/play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/1ef3f07106e44080f5d78549c8a0ed68/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/add2bdb41de46d90e5d3bd4e75929820/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/dd07e922b5233b833d82ee834e6becf7/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/bbc51c53aec70aeae5178e82f15e817a/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/abc680e55824c418c024460e31034ed4/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/34085af895daa23049fd0af188e6a001/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/ba2af06f417607d7ef1ca9f201a0d139/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/402e2fb3baa5e6ca3b4a0d7ccbd7cd5b/transition-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/b380add67a368a8277bb04c25f1c3511/percentlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/f3997ce16a5c00ae84a772d300d0e1e8/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/331f61861c2d3a925f2252286afb1f53/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/daa47187fb0f0a7c419d1b10e1677cdd/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/beed28e19d4f55ab2c17aff66e0bc400/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/e0d80e5c178a0db065288a448fc598ef/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/04087833f388d5ffa97a080d757646c2/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/eb11c4797d5d5b24d5dcbbebe26babf4/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/740a70a0c89c8c085b6e012b4bd7790e/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/31dc29ba3158cee4b1ca2bf2f6ff141b/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/435f1166e6a428a0025d9cd273cb35a2/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/a6ce3afbff3f1ae3fa1fe13048b173d9/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/aa91d8d2653c363bbd5da9d9892260d3/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/ccc4f60e4549c263b614feec2a027fa2/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/c9c8616d74aa0ab3eb457d24b669c685/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/d4ef17d609918d2a5f5a86d1ea02678f/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/9d52be8c254a228a91eaf05f51d52923/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/9093771a98b01557e81860f4122d7892/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/7ec682ca46f5c90ea9a9e0cba0c0310a/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/0554424e228349ffc3db0700d1324aa1/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/bad233a64070d55cab9a83b26afbf154/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/7acef2a7bfef3795312317efec15d83e/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/420f294924962582b4c42c622af43461/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/66e997bde0b6ece28f7fd36f5f4a1584/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/8787729f29cf7add1bc29c81caccddfd/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/84159a0cb41ca553cf3c426ad39f15b5/constraintlayout-1.1.0/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:17:1-99:12
+INJECTED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:17:1-99:12
+	package
+		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:18:11-72
+	android:versionName
+		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:20:11-36
+		INJECTED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml
+		INJECTED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:17:11-69
+	android:versionCode
+		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:19:11-34
+		INJECTED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml
+		INJECTED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml
+uses-feature#android.hardware.type.watch
+ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:22:5-63
+	android:name
+		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:22:19-61
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:24:22-65
+application
+ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:26:5-98:19
+MERGED from [com.google.android.material:material:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/cb634fe4b4d1fdfcd5255e485d30a0c1/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/cb634fe4b4d1fdfcd5255e485d30a0c1/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:17.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/b147091a173b9180aa4a486531b55908/play-services-wearable-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:17.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/b147091a173b9180aa4a486531b55908/play-services-wearable-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.support:wearable:2.5.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/8265b01d6639d6795602213fbd5ec0dd/jetified-wearable-2.5.0/AndroidManifest.xml:9:5-13:19
+MERGED from [com.google.android.support:wearable:2.5.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/8265b01d6639d6795602213fbd5ec0dd/jetified-wearable-2.5.0/AndroidManifest.xml:9:5-13:19
+MERGED from [:Shared] /Users/bdhill/CruzHacks2020/Notifications/Shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:5-24:19
+MERGED from [:Shared] /Users/bdhill/CruzHacks2020/Notifications/Shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:5-24:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/291563c6708268cf4683b088770f2b39/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/291563c6708268cf4683b088770f2b39/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/3087f829ad78da1f0d52970740cc50c8/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/3087f829ad78da1f0d52970740cc50c8/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/1ef3f07106e44080f5d78549c8a0ed68/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/1ef3f07106e44080f5d78549c8a0ed68/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/c9c8616d74aa0ab3eb457d24b669c685/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/c9c8616d74aa0ab3eb457d24b669c685/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/84159a0cb41ca553cf3c426ad39f15b5/constraintlayout-1.1.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/84159a0cb41ca553cf3c426ad39f15b5/constraintlayout-1.1.0/AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:29:18-44
+	android:label
+		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:28:18-50
+	android:icon
+		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:27:18-52
+	android:allowBackup
+		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:26:18-44
+	android:theme
+		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:30:18-63
+meta-data#com.google.android.wearable.standalone
+ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:33:9-96
+	android:value
+		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:33:74-94
+	android:name
+		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:33:20-73
+uses-library#com.google.android.wearable
+ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:48:9-93
+MERGED from [com.google.android.support:wearable:2.5.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/8265b01d6639d6795602213fbd5ec0dd/jetified-wearable-2.5.0/AndroidManifest.xml:10:9-12:40
+MERGED from [com.google.android.support:wearable:2.5.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/8265b01d6639d6795602213fbd5ec0dd/jetified-wearable-2.5.0/AndroidManifest.xml:10:9-12:40
+	android:required
+		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:48:66-90
+	android:name
+		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:48:23-65
+activity#com.example.android.wearable.wear.wearnotifications.StandaloneMainActivity
+ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:50:9-56:20
+	android:label
+		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:51:19-51
+	android:name
+		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:50:19-57
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:52:13-55:29
+action#android.intent.action.MAIN
+ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:53:17-69
+	android:name
+		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:53:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:54:17-77
+	android:name
+		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:54:27-74
+activity#com.example.android.wearable.wear.wearnotifications.handlers.BigTextMainActivity
+ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:59:9-63:20
+	android:label
+		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:61:13-65
+	android:taskAffinity
+		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:62:13-36
+	android:name
+		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:60:13-57
+activity#com.example.android.wearable.wear.wearnotifications.handlers.BigPictureSocialMainActivity
+ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:65:9-69:20
+	android:label
+		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:67:13-68
+	android:taskAffinity
+		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:68:13-36
+	android:name
+		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:66:13-66
+activity#com.example.android.wearable.wear.wearnotifications.handlers.InboxMainActivity
+ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:72:9-76:20
+	android:label
+		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:74:13-62
+	android:taskAffinity
+		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:75:13-36
+	android:name
+		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:73:13-55
+activity#com.example.android.wearable.wear.wearnotifications.handlers.MessagingMainActivity
+ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:78:9-82:20
+	android:label
+		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:80:13-66
+	android:taskAffinity
+		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:81:13-36
+	android:name
+		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:79:13-59
+service#com.example.android.wearable.wear.wearnotifications.handlers.BigTextIntentService
+ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:84:9-87:19
+	android:exported
+		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:86:13-37
+	android:name
+		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:85:13-58
+service#com.example.android.wearable.wear.wearnotifications.handlers.MessagingIntentService
+ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:89:9-92:19
+	android:exported
+		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:91:13-37
+	android:name
+		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:90:13-60
+service#com.example.android.wearable.wear.wearnotifications.handlers.BigPictureSocialIntentService
+ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:94:9-97:19
+	android:exported
+		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:96:13-37
+	android:name
+		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:95:13-67
+uses-sdk
+INJECTED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml
+INJECTED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/cb634fe4b4d1fdfcd5255e485d30a0c1/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/cb634fe4b4d1fdfcd5255e485d30a0c1/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/37ec02f661e3547c5499ecdfd9f3cd1f/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/37ec02f661e3547c5499ecdfd9f3cd1f/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.wear:wear:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/9c69c3cfae028b3016af07e857fcff66/wear-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.wear:wear:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/9c69c3cfae028b3016af07e857fcff66/wear-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/cc028c87913dc4f8383a8eb92978b3bc/legacy-support-v13-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/cc028c87913dc4f8383a8eb92978b3bc/legacy-support-v13-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:17.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/b147091a173b9180aa4a486531b55908/play-services-wearable-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:17.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/b147091a173b9180aa4a486531b55908/play-services-wearable-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.support:wearable:2.5.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/8265b01d6639d6795602213fbd5ec0dd/jetified-wearable-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.support:wearable:2.5.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/8265b01d6639d6795602213fbd5ec0dd/jetified-wearable-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [:Shared] /Users/bdhill/CruzHacks2020/Notifications/Shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-19:41
+MERGED from [:Shared] /Users/bdhill/CruzHacks2020/Notifications/Shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-19:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/1964611a1907e3ea07b40ce4c516c284/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/1964611a1907e3ea07b40ce4c516c284/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/291563c6708268cf4683b088770f2b39/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/291563c6708268cf4683b088770f2b39/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/3087f829ad78da1f0d52970740cc50c8/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/3087f829ad78da1f0d52970740cc50c8/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/1ef3f07106e44080f5d78549c8a0ed68/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/1ef3f07106e44080f5d78549c8a0ed68/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/add2bdb41de46d90e5d3bd4e75929820/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/add2bdb41de46d90e5d3bd4e75929820/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/dd07e922b5233b833d82ee834e6becf7/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/dd07e922b5233b833d82ee834e6becf7/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/bbc51c53aec70aeae5178e82f15e817a/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/bbc51c53aec70aeae5178e82f15e817a/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/abc680e55824c418c024460e31034ed4/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/abc680e55824c418c024460e31034ed4/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/34085af895daa23049fd0af188e6a001/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/34085af895daa23049fd0af188e6a001/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/ba2af06f417607d7ef1ca9f201a0d139/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/ba2af06f417607d7ef1ca9f201a0d139/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/402e2fb3baa5e6ca3b4a0d7ccbd7cd5b/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/402e2fb3baa5e6ca3b4a0d7ccbd7cd5b/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/b380add67a368a8277bb04c25f1c3511/percentlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/b380add67a368a8277bb04c25f1c3511/percentlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/f3997ce16a5c00ae84a772d300d0e1e8/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/f3997ce16a5c00ae84a772d300d0e1e8/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/331f61861c2d3a925f2252286afb1f53/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/331f61861c2d3a925f2252286afb1f53/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/daa47187fb0f0a7c419d1b10e1677cdd/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/daa47187fb0f0a7c419d1b10e1677cdd/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/beed28e19d4f55ab2c17aff66e0bc400/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/beed28e19d4f55ab2c17aff66e0bc400/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/e0d80e5c178a0db065288a448fc598ef/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/e0d80e5c178a0db065288a448fc598ef/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/04087833f388d5ffa97a080d757646c2/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/04087833f388d5ffa97a080d757646c2/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/eb11c4797d5d5b24d5dcbbebe26babf4/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/eb11c4797d5d5b24d5dcbbebe26babf4/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/740a70a0c89c8c085b6e012b4bd7790e/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/740a70a0c89c8c085b6e012b4bd7790e/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/31dc29ba3158cee4b1ca2bf2f6ff141b/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/31dc29ba3158cee4b1ca2bf2f6ff141b/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/435f1166e6a428a0025d9cd273cb35a2/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/435f1166e6a428a0025d9cd273cb35a2/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/a6ce3afbff3f1ae3fa1fe13048b173d9/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/a6ce3afbff3f1ae3fa1fe13048b173d9/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/aa91d8d2653c363bbd5da9d9892260d3/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/aa91d8d2653c363bbd5da9d9892260d3/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/ccc4f60e4549c263b614feec2a027fa2/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/ccc4f60e4549c263b614feec2a027fa2/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/c9c8616d74aa0ab3eb457d24b669c685/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/c9c8616d74aa0ab3eb457d24b669c685/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/d4ef17d609918d2a5f5a86d1ea02678f/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/d4ef17d609918d2a5f5a86d1ea02678f/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/9d52be8c254a228a91eaf05f51d52923/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/9d52be8c254a228a91eaf05f51d52923/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/9093771a98b01557e81860f4122d7892/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/9093771a98b01557e81860f4122d7892/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/7ec682ca46f5c90ea9a9e0cba0c0310a/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/7ec682ca46f5c90ea9a9e0cba0c0310a/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/0554424e228349ffc3db0700d1324aa1/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/0554424e228349ffc3db0700d1324aa1/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/bad233a64070d55cab9a83b26afbf154/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/bad233a64070d55cab9a83b26afbf154/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/7acef2a7bfef3795312317efec15d83e/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/7acef2a7bfef3795312317efec15d83e/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/420f294924962582b4c42c622af43461/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/420f294924962582b4c42c622af43461/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/66e997bde0b6ece28f7fd36f5f4a1584/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/66e997bde0b6ece28f7fd36f5f4a1584/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/8787729f29cf7add1bc29c81caccddfd/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/8787729f29cf7add1bc29c81caccddfd/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/84159a0cb41ca553cf3c426ad39f15b5/constraintlayout-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/84159a0cb41ca553cf3c426ad39f15b5/constraintlayout-1.1.0/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml
+INJECTED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml
+		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml
+		INJECTED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml
+		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml
+		INJECTED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/291563c6708268cf4683b088770f2b39/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/291563c6708268cf4683b088770f2b39/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/291563c6708268cf4683b088770f2b39/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/291563c6708268cf4683b088770f2b39/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/1ef3f07106e44080f5d78549c8a0ed68/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/1ef3f07106e44080f5d78549c8a0ed68/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/1ef3f07106e44080f5d78549c8a0ed68/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58

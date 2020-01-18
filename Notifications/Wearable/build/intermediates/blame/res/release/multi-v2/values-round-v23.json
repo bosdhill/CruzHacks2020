@@ -1,0 +1,77 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/bdhill/CruzHacks2020/user-interface-samples/Notifications/Wearable/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-round-v23/values-round-v23.xml",
+            "map": [
+                {
+                    "source": "/Users/bdhill/CruzHacks2020/user-interface-samples/Notifications/Wearable/src/main/res/values-round/strings.xml",
+                    "from": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "668",
+                        "endColumns": "66",
+                        "endOffsets": "730"
+                    },
+                    "to": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "1123",
+                        "endColumns": "66",
+                        "endOffsets": "1185"
+                    }
+                },
+                {
+                    "source": "/Users/bdhill/CruzHacks2020/user-interface-samples/Notifications/Wearable/src/main/res/values-round/dimens.xml",
+                    "from": {
+                        "startLines": "20,22,21,19,17",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "796,947,872,723,668",
+                        "endColumns": "75,73,74,72,53",
+                        "endOffsets": "867,1016,942,791,717"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,14",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "176,252,326,401,903",
+                        "endColumns": "75,73,74,72,53",
+                        "endOffsets": "247,321,396,469,952"
+                    }
+                },
+                {
+                    "source": "/Users/bdhill/.gradle/caches/transforms-2/files-2.1/8265b01d6639d6795602213fbd5ec0dd/jetified-wearable-2.5.0/res/values-round-v23/values.xml",
+                    "from": {
+                        "startLines": "4,5,9,10,11,12,13",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "213,269,531,608,689,733,804",
+                        "endColumns": "55,56,76,80,43,70,72",
+                        "endOffsets": "268,325,607,688,732,803,876"
+                    },
+                    "to": {
+                        "startLines": "2,3,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,115,537,618,703,751,826",
+                        "endColumns": "59,60,80,84,47,74,76",
+                        "endOffsets": "110,171,613,698,746,821,898"
+                    }
+                },
+                {
+                    "source": "/Users/bdhill/.gradle/caches/transforms-2/files-2.1/9c69c3cfae028b3016af07e857fcff66/wear-1.0.0/res/values-round-v23/values-round-v23.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,118,204",
+                        "endColumns": "62,85,79",
+                        "endOffsets": "113,199,279"
+                    },
+                    "to": {
+                        "startLines": "8,15,16",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "474,957,1043",
+                        "endColumns": "62,85,79",
+                        "endOffsets": "532,1038,1118"
+                    }
+                }
+            ]
+        }
+    ]
+}

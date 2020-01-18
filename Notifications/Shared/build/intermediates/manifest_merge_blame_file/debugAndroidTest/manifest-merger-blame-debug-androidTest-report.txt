@@ -1,0 +1,40 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.android.wearable.wear.wearnotifications.common.test" >
+4
+5    <uses-sdk
+5-->/Users/bdhill/CruzHacks2020/Notifications/Shared/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger151714187326311696.xml:5:5-74
+6        android:minSdkVersion="18"
+6-->/Users/bdhill/CruzHacks2020/Notifications/Shared/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger151714187326311696.xml:5:15-41
+7        android:targetSdkVersion="29" />
+7-->/Users/bdhill/CruzHacks2020/Notifications/Shared/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger151714187326311696.xml:5:42-71
+8
+9    <instrumentation
+9-->/Users/bdhill/CruzHacks2020/Notifications/Shared/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger151714187326311696.xml:11:5-15:113
+10        android:name="android.test.InstrumentationTestRunner"
+10-->/Users/bdhill/CruzHacks2020/Notifications/Shared/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger151714187326311696.xml:11:22-75
+11        android:functionalTest="false"
+11-->/Users/bdhill/CruzHacks2020/Notifications/Shared/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger151714187326311696.xml:14:22-52
+12        android:handleProfiling="false"
+12-->/Users/bdhill/CruzHacks2020/Notifications/Shared/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger151714187326311696.xml:13:22-53
+13        android:label="Tests for com.example.android.wearable.wear.wearnotifications.common.test"
+13-->/Users/bdhill/CruzHacks2020/Notifications/Shared/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger151714187326311696.xml:15:22-111
+14        android:targetPackage="com.example.android.wearable.wear.wearnotifications.common.test" />
+14-->/Users/bdhill/CruzHacks2020/Notifications/Shared/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger151714187326311696.xml:12:22-109
+15
+16    <application
+16-->/Users/bdhill/CruzHacks2020/Notifications/Shared/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger151714187326311696.xml:7:5-9:19
+17        android:allowBackup="true"
+17-->[__tested_artifact__::Shared] /Users/bdhill/CruzHacks2020/Notifications/Shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:9-35
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/2ffb88316df49107418be0872d7babe4/core-1.0.0/AndroidManifest.xml:22:18-86
+19        android:debuggable="true"
+19-->/Users/bdhill/CruzHacks2020/Notifications/Shared/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger151714187326311696.xml:7:18-43
+20        android:label="@string/app_name" >
+20-->[__tested_artifact__::Shared] /Users/bdhill/CruzHacks2020/Notifications/Shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:9-41
+21        <uses-library android:name="android.test.runner" />
+21-->/Users/bdhill/CruzHacks2020/Notifications/Shared/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger151714187326311696.xml:8:9-60
+21-->/Users/bdhill/CruzHacks2020/Notifications/Shared/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger151714187326311696.xml:8:23-57
+22    </application>
+23
+24</manifest>

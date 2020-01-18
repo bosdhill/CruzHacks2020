@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/bdhill/CruzHacks2020/user-interface-samples/Notifications/Shared/build/intermediates/res/merged/release/drawable-xxxhdpi-v4/ic_message_black_18dp.png",
+        "source": "/Users/bdhill/CruzHacks2020/user-interface-samples/Notifications/Shared/src/main/res/drawable-xxxhdpi/ic_message_black_18dp.png"
+    },
+    {
+        "merged": "/Users/bdhill/CruzHacks2020/user-interface-samples/Notifications/Shared/build/intermediates/res/merged/release/drawable-xxxhdpi-v4/ic_reply_white_18dp.png",
+        "source": "/Users/bdhill/CruzHacks2020/user-interface-samples/Notifications/Shared/src/main/res/drawable-xxxhdpi/ic_reply_white_18dp.png"
+    },
+    {
+        "merged": "/Users/bdhill/CruzHacks2020/user-interface-samples/Notifications/Shared/build/intermediates/res/merged/release/drawable-xxxhdpi-v4/ic_cancel_white_48dp.png",
+        "source": "/Users/bdhill/CruzHacks2020/user-interface-samples/Notifications/Shared/src/main/res/drawable-xxxhdpi/ic_cancel_white_48dp.png"
+    },
+    {
+        "merged": "/Users/bdhill/CruzHacks2020/user-interface-samples/Notifications/Shared/build/intermediates/res/merged/release/drawable-xxxhdpi-v4/ic_person_black_48dp.png",
+        "source": "/Users/bdhill/CruzHacks2020/user-interface-samples/Notifications/Shared/src/main/res/drawable-xxxhdpi/ic_person_black_48dp.png"
+    },
+    {
+        "merged": "/Users/bdhill/CruzHacks2020/user-interface-samples/Notifications/Shared/build/intermediates/res/merged/release/drawable-xxxhdpi-v4/ic_alarm_white_48dp.png",
+        "source": "/Users/bdhill/CruzHacks2020/user-interface-samples/Notifications/Shared/src/main/res/drawable-xxxhdpi/ic_alarm_white_48dp.png"
+    },
+    {
+        "merged": "/Users/bdhill/CruzHacks2020/user-interface-samples/Notifications/Shared/build/intermediates/res/merged/release/drawable-xxxhdpi-v4/ic_launcher.png",
+        "source": "/Users/bdhill/CruzHacks2020/user-interface-samples/Notifications/Shared/src/main/res/drawable-xxxhdpi/ic_launcher.png"
+    }
+]

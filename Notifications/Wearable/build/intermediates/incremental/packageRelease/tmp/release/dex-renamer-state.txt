@@ -1,0 +1,4 @@
+#Fri Jan 17 19:50:55 PST 2020
+base.0=/Users/bdhill/CruzHacks2020/user-interface-samples/Notifications/Wearable/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

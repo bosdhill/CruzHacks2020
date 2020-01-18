@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/bdhill/CruzHacks2020/user-interface-samples/Notifications/Shared/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/bdhill/.gradle/caches/transforms-2/files-2.1/2ffb88316df49107418be0872d7babe4/core-1.0.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/bdhill/CruzHacks2020/user-interface-samples/Notifications/Shared/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/bdhill/.gradle/caches/transforms-2/files-2.1/2ffb88316df49107418be0872d7babe4/core-1.0.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/bdhill/CruzHacks2020/user-interface-samples/Notifications/Shared/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/bdhill/.gradle/caches/transforms-2/files-2.1/2ffb88316df49107418be0872d7babe4/core-1.0.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/bdhill/CruzHacks2020/user-interface-samples/Notifications/Shared/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/bdhill/.gradle/caches/transforms-2/files-2.1/2ffb88316df49107418be0872d7babe4/core-1.0.0/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

@@ -1,0 +1,147 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3 Copyright 2013 The Android Open Source Project
+4
+5 Licensed under the Apache License, Version 2.0 (the "License");
+6 you may not use this file except in compliance with the License.
+7 You may obtain a copy of the License at
+8
+9     http://www.apache.org/licenses/LICENSE-2.0
+10
+11 Unless required by applicable law or agreed to in writing, software
+12 distributed under the License is distributed on an "AS IS" BASIS,
+13 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+14 See the License for the specific language governing permissions and
+15 limitations under the License.
+16-->
+17<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+18    package="com.example.android.wearable.wear.wearnotifications"
+19    android:versionCode="1"
+20    android:versionName="1.0" >
+21
+22    <uses-sdk
+23        android:minSdkVersion="18"
+23-->/Users/bdhill/CruzHacks2020/Notifications/Application/src/main/AndroidManifest.xml
+24        android:targetSdkVersion="29" />
+24-->/Users/bdhill/CruzHacks2020/Notifications/Application/src/main/AndroidManifest.xml
+25
+26    <application
+26-->/Users/bdhill/CruzHacks2020/Notifications/Application/src/main/AndroidManifest.xml:22:5-82:19
+27        android:allowBackup="true"
+27-->/Users/bdhill/CruzHacks2020/Notifications/Application/src/main/AndroidManifest.xml:23:9-35
+28        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+28-->[androidx.core:core:1.1.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/AndroidManifest.xml:24:18-86
+29        android:debuggable="true"
+30        android:icon="@drawable/ic_launcher"
+30-->/Users/bdhill/CruzHacks2020/Notifications/Application/src/main/AndroidManifest.xml:24:9-45
+31        android:label="@string/app_name"
+31-->/Users/bdhill/CruzHacks2020/Notifications/Application/src/main/AndroidManifest.xml:25:9-41
+32        android:supportsRtl="true"
+32-->/Users/bdhill/CruzHacks2020/Notifications/Application/src/main/AndroidManifest.xml:26:9-35
+33        android:theme="@style/AppThemeOverride" >
+33-->/Users/bdhill/CruzHacks2020/Notifications/Application/src/main/AndroidManifest.xml:27:9-48
+34        <activity android:name="com.example.android.wearable.wear.wearnotifications.MainActivity" >
+34-->/Users/bdhill/CruzHacks2020/Notifications/Application/src/main/AndroidManifest.xml:29:9-34:20
+34-->/Users/bdhill/CruzHacks2020/Notifications/Application/src/main/AndroidManifest.xml:29:19-47
+35            <intent-filter>
+35-->/Users/bdhill/CruzHacks2020/Notifications/Application/src/main/AndroidManifest.xml:30:13-33:29
+36                <action android:name="android.intent.action.MAIN" />
+36-->/Users/bdhill/CruzHacks2020/Notifications/Application/src/main/AndroidManifest.xml:31:17-68
+36-->/Users/bdhill/CruzHacks2020/Notifications/Application/src/main/AndroidManifest.xml:31:25-66
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->/Users/bdhill/CruzHacks2020/Notifications/Application/src/main/AndroidManifest.xml:32:17-76
+38-->/Users/bdhill/CruzHacks2020/Notifications/Application/src/main/AndroidManifest.xml:32:27-74
+39            </intent-filter>
+40        </activity>
+41        <activity
+41-->/Users/bdhill/CruzHacks2020/Notifications/Application/src/main/AndroidManifest.xml:36:9-41:20
+42            android:name="com.example.android.wearable.wear.wearnotifications.handlers.BigTextMainActivity"
+42-->/Users/bdhill/CruzHacks2020/Notifications/Application/src/main/AndroidManifest.xml:37:13-57
+43            android:excludeFromRecents="true"
+43-->/Users/bdhill/CruzHacks2020/Notifications/Application/src/main/AndroidManifest.xml:38:13-46
+44            android:label="@string/title_activity_big_text_main"
+44-->/Users/bdhill/CruzHacks2020/Notifications/Application/src/main/AndroidManifest.xml:39:13-65
+45            android:taskAffinity="" >
+45-->/Users/bdhill/CruzHacks2020/Notifications/Application/src/main/AndroidManifest.xml:40:13-36
+46        </activity>
+47        <activity
+47-->/Users/bdhill/CruzHacks2020/Notifications/Application/src/main/AndroidManifest.xml:43:9-49:20
+48            android:name="com.example.android.wearable.wear.wearnotifications.handlers.BigPictureSocialMainActivity"
+48-->/Users/bdhill/CruzHacks2020/Notifications/Application/src/main/AndroidManifest.xml:44:13-66
+49            android:label="@string/title_activity_big_picture_main" >
+49-->/Users/bdhill/CruzHacks2020/Notifications/Application/src/main/AndroidManifest.xml:45:13-68
+50            <meta-data
+50-->/Users/bdhill/CruzHacks2020/Notifications/Application/src/main/AndroidManifest.xml:46:13-48:48
+51                android:name="android.support.PARENT_ACTIVITY"
+51-->/Users/bdhill/CruzHacks2020/Notifications/Application/src/main/AndroidManifest.xml:47:17-63
+52                android:value=".MainActivity" />
+52-->/Users/bdhill/CruzHacks2020/Notifications/Application/src/main/AndroidManifest.xml:48:17-46
+53        </activity>
+54        <activity
+54-->/Users/bdhill/CruzHacks2020/Notifications/Application/src/main/AndroidManifest.xml:52:9-58:20
+55            android:name="com.example.android.wearable.wear.wearnotifications.handlers.InboxMainActivity"
+55-->/Users/bdhill/CruzHacks2020/Notifications/Application/src/main/AndroidManifest.xml:53:13-55
+56            android:label="@string/title_activity_inbox_main" >
+56-->/Users/bdhill/CruzHacks2020/Notifications/Application/src/main/AndroidManifest.xml:54:13-62
+57            <meta-data
+57-->/Users/bdhill/CruzHacks2020/Notifications/Application/src/main/AndroidManifest.xml:46:13-48:48
+58                android:name="android.support.PARENT_ACTIVITY"
+58-->/Users/bdhill/CruzHacks2020/Notifications/Application/src/main/AndroidManifest.xml:47:17-63
+59                android:value=".MainActivity" />
+59-->/Users/bdhill/CruzHacks2020/Notifications/Application/src/main/AndroidManifest.xml:48:17-46
+60        </activity>
+61        <activity
+61-->/Users/bdhill/CruzHacks2020/Notifications/Application/src/main/AndroidManifest.xml:60:9-66:20
+62            android:name="com.example.android.wearable.wear.wearnotifications.handlers.MessagingMainActivity"
+62-->/Users/bdhill/CruzHacks2020/Notifications/Application/src/main/AndroidManifest.xml:61:13-59
+63            android:label="@string/title_activity_messaging_main" >
+63-->/Users/bdhill/CruzHacks2020/Notifications/Application/src/main/AndroidManifest.xml:62:13-66
+64            <meta-data
+64-->/Users/bdhill/CruzHacks2020/Notifications/Application/src/main/AndroidManifest.xml:46:13-48:48
+65                android:name="android.support.PARENT_ACTIVITY"
+65-->/Users/bdhill/CruzHacks2020/Notifications/Application/src/main/AndroidManifest.xml:47:17-63
+66                android:value=".MainActivity" />
+66-->/Users/bdhill/CruzHacks2020/Notifications/Application/src/main/AndroidManifest.xml:48:17-46
+67        </activity>
+68
+69        <service
+69-->/Users/bdhill/CruzHacks2020/Notifications/Application/src/main/AndroidManifest.xml:68:9-71:19
+70            android:name="com.example.android.wearable.wear.wearnotifications.handlers.BigTextIntentService"
+70-->/Users/bdhill/CruzHacks2020/Notifications/Application/src/main/AndroidManifest.xml:69:13-58
+71            android:exported="false" >
+71-->/Users/bdhill/CruzHacks2020/Notifications/Application/src/main/AndroidManifest.xml:70:13-37
+72        </service>
+73        <service
+73-->/Users/bdhill/CruzHacks2020/Notifications/Application/src/main/AndroidManifest.xml:73:9-76:19
+74            android:name="com.example.android.wearable.wear.wearnotifications.handlers.MessagingIntentService"
+74-->/Users/bdhill/CruzHacks2020/Notifications/Application/src/main/AndroidManifest.xml:74:13-60
+75            android:exported="false" >
+75-->/Users/bdhill/CruzHacks2020/Notifications/Application/src/main/AndroidManifest.xml:75:13-37
+76        </service>
+77        <service
+77-->/Users/bdhill/CruzHacks2020/Notifications/Application/src/main/AndroidManifest.xml:78:9-81:19
+78            android:name="com.example.android.wearable.wear.wearnotifications.handlers.BigPictureSocialIntentService"
+78-->/Users/bdhill/CruzHacks2020/Notifications/Application/src/main/AndroidManifest.xml:79:13-67
+79            android:exported="false" >
+79-->/Users/bdhill/CruzHacks2020/Notifications/Application/src/main/AndroidManifest.xml:80:13-37
+80        </service>
+81
+82        <activity
+82-->[com.google.android.gms:play-services-base:17.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/291563c6708268cf4683b088770f2b39/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+83            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+83-->[com.google.android.gms:play-services-base:17.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/291563c6708268cf4683b088770f2b39/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+84            android:exported="false"
+84-->[com.google.android.gms:play-services-base:17.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/291563c6708268cf4683b088770f2b39/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+85            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+85-->[com.google.android.gms:play-services-base:17.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/291563c6708268cf4683b088770f2b39/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+86
+87        <meta-data
+87-->[com.google.android.gms:play-services-basement:17.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/1ef3f07106e44080f5d78549c8a0ed68/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+88            android:name="com.google.android.gms.version"
+88-->[com.google.android.gms:play-services-basement:17.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/1ef3f07106e44080f5d78549c8a0ed68/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+89            android:value="@integer/google_play_services_version" />
+89-->[com.google.android.gms:play-services-basement:17.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/1ef3f07106e44080f5d78549c8a0ed68/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+90    </application>
+91
+92</manifest>

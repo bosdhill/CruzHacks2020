@@ -62,38 +62,11 @@
             android:taskAffinity="">
         </activity>
 
-        <activity
-            android:name=".handlers.BigPictureSocialMainActivity"
-            android:label="@string/title_activity_big_picture_main"
-            android:taskAffinity="">
-        </activity>
-
-
-        <activity
-            android:name=".handlers.InboxMainActivity"
-            android:label="@string/title_activity_inbox_main"
-            android:taskAffinity="">
-        </activity>
-
-        <activity
-            android:name=".handlers.MessagingMainActivity"
-            android:label="@string/title_activity_messaging_main"
-            android:taskAffinity="">
-        </activity>
 
         <service
             android:name=".handlers.BigTextIntentService"
             android:exported="false">
         </service>
 
-        <service
-            android:name=".handlers.MessagingIntentService"
-            android:exported="false">
-        </service>
-
-        <service
-            android:name=".handlers.BigPictureSocialIntentService"
-            android:exported="false">
-        </service>
     </application>
 </manifest>

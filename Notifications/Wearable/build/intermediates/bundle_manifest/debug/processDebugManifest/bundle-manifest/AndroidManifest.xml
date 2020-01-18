@@ -74,32 +74,9 @@
             android:label="@string/title_activity_big_text_main"
             android:taskAffinity="" >
         </activity>
-        <activity
-            android:name="com.example.android.wearable.wear.wearnotifications.handlers.BigPictureSocialMainActivity"
-            android:label="@string/title_activity_big_picture_main"
-            android:taskAffinity="" >
-        </activity>
-        <activity
-            android:name="com.example.android.wearable.wear.wearnotifications.handlers.InboxMainActivity"
-            android:label="@string/title_activity_inbox_main"
-            android:taskAffinity="" >
-        </activity>
-        <activity
-            android:name="com.example.android.wearable.wear.wearnotifications.handlers.MessagingMainActivity"
-            android:label="@string/title_activity_messaging_main"
-            android:taskAffinity="" >
-        </activity>
 
         <service
             android:name="com.example.android.wearable.wear.wearnotifications.handlers.BigTextIntentService"
-            android:exported="false" >
-        </service>
-        <service
-            android:name="com.example.android.wearable.wear.wearnotifications.handlers.MessagingIntentService"
-            android:exported="false" >
-        </service>
-        <service
-            android:name="com.example.android.wearable.wear.wearnotifications.handlers.BigPictureSocialIntentService"
             android:exported="false" >
         </service>
 

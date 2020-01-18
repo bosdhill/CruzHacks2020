@@ -1,8 +1,8 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:17:1-99:12
-INJECTED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:17:1-99:12
-INJECTED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:17:1-99:12
+ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:17:1-72:12
+INJECTED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:17:1-72:12
+INJECTED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:17:1-72:12
 MERGED from [com.google.android.material:material:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/cb634fe4b4d1fdfcd5255e485d30a0c1/material-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/37ec02f661e3547c5499ecdfd9f3cd1f/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.wear:wear:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/9c69c3cfae028b3016af07e857fcff66/wear-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -48,8 +48,8 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/bdhill/.gradle/
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/66e997bde0b6ece28f7fd36f5f4a1584/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/8787729f29cf7add1bc29c81caccddfd/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/84159a0cb41ca553cf3c426ad39f15b5/constraintlayout-1.1.0/AndroidManifest.xml:2:1-11:12
-INJECTED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:17:1-99:12
-INJECTED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:17:1-99:12
+INJECTED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:17:1-72:12
+INJECTED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:17:1-72:12
 	package
 		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:18:11-72
 	android:versionName
@@ -71,7 +71,7 @@ ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidMa
 	android:name
 		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:24:22-65
 application
-ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:26:5-98:19
+ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:26:5-71:19
 MERGED from [com.google.android.material:material:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/cb634fe4b4d1fdfcd5255e485d30a0c1/material-1.0.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/cb634fe4b4d1fdfcd5255e485d30a0c1/material-1.0.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-wearable:17.0.0] /Users/bdhill/.gradle/caches/transforms-2/files-2.1/b147091a173b9180aa4a486531b55908/play-services-wearable-17.0.0/AndroidManifest.xml:22:5-20
@@ -142,48 +142,12 @@ ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidMa
 		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:62:13-36
 	android:name
 		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:60:13-57
-activity#com.example.android.wearable.wear.wearnotifications.handlers.BigPictureSocialMainActivity
-ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:65:9-69:20
-	android:label
-		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:67:13-68
-	android:taskAffinity
-		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:68:13-36
-	android:name
-		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:66:13-66
-activity#com.example.android.wearable.wear.wearnotifications.handlers.InboxMainActivity
-ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:72:9-76:20
-	android:label
-		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:74:13-62
-	android:taskAffinity
-		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:75:13-36
-	android:name
-		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:73:13-55
-activity#com.example.android.wearable.wear.wearnotifications.handlers.MessagingMainActivity
-ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:78:9-82:20
-	android:label
-		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:80:13-66
-	android:taskAffinity
-		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:81:13-36
-	android:name
-		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:79:13-59
 service#com.example.android.wearable.wear.wearnotifications.handlers.BigTextIntentService
-ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:84:9-87:19
+ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:66:9-69:19
 	android:exported
-		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:86:13-37
+		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:68:13-37
 	android:name
-		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:85:13-58
-service#com.example.android.wearable.wear.wearnotifications.handlers.MessagingIntentService
-ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:89:9-92:19
-	android:exported
-		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:91:13-37
-	android:name
-		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:90:13-60
-service#com.example.android.wearable.wear.wearnotifications.handlers.BigPictureSocialIntentService
-ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:94:9-97:19
-	android:exported
-		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:96:13-37
-	android:name
-		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:95:13-67
+		ADDED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml:67:13-58
 uses-sdk
 INJECTED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/bdhill/CruzHacks2020/Notifications/Wearable/src/main/AndroidManifest.xml

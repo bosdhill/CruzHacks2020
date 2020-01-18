@@ -58,7 +58,7 @@ public class StandaloneMainActivity extends Activity implements
      * {@link WearableRecyclerView}. These constants are also used in a switch statement when one
      * of the items is selected to create the appropriate {@link Notification}.
      */
-    private static final String BIG_TEXT_STYLE = "BIG_TEXT_STYLE";
+    private static final String BIG_TEXT_STYLE = "ANOMALY DETECTED";
 
     /*
     Collection of major {@link NotificationCompat.Style} to create {@link CustomRecyclerAdapter}

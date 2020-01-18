@@ -18,17 +18,13 @@
       <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/javac/debug/classes/com/example/android/wearable/wear/wearnotifications/StandaloneMainActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/javac/debug/classes/com/example/android/wearable/wear/wearnotifications/StandaloneMainActivity$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/javac/debug/classes/com/example/android/wearable/wear/wearnotifications/StandaloneMainActivity$MyAmbientCallback.class" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/javac/debug/classes/com/example/android/wearable/wear/wearnotifications/StandaloneMainActivity$MyAmbientCallback.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/javac/debug/classes/com/example/android/wearable/wear/wearnotifications/StandaloneMainActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/javac/debug/classes/com/example/android/wearable/wear/wearnotifications/StandaloneMainActivity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/0/com/example/android/wearable/wear/wearnotifications/StandaloneMainActivity$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/0/com/example/android/wearable/wear/wearnotifications/StandaloneMainActivity$1.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/0/com/example/android/wearable/wear/wearnotifications/StandaloneMainActivity$MyAmbientCallback.dex" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/0/com/example/android/wearable/wear/wearnotifications/StandaloneMainActivity$MyAmbientCallback.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/0/com/example/android/wearable/wear/wearnotifications/StandaloneMainActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/0/com/example/android/wearable/wear/wearnotifications/StandaloneMainActivity.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/javac/debug/classes/com/example/android/wearable/wear/wearnotifications/handlers/BigTextIntentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/javac/debug/classes/com/example/android/wearable/wear/wearnotifications/handlers/BigTextIntentService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/0/com/example/android/wearable/wear/wearnotifications/handlers/BigTextIntentService.dex" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/0/com/example/android/wearable/wear/wearnotifications/handlers/BigTextIntentService.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wearable/build/outputs/apk/debug/Wearable-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/outputs/apk/debug/Wearable-debug.apk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wearable/src/main/java/com/example/android/wearable/wear/wearnotifications/StandaloneMainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/src/main/java/com/example/android/wearable/wear/wearnotifications/StandaloneMainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/src/main/java/com/example/android/wearable/wear/wearnotifications/handlers/BigTextIntentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/src/main/java/com/example/android/wearable/wear/wearnotifications/handlers/BigTextIntentService.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,28 +55,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Wearable/src/main/java/com/example/android/wearable/wear/wearnotifications/handlers/MessagingMainActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="26">
-              <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Wearable/src/main/java/com/example/android/wearable/wear/wearnotifications/handlers/BigTextIntentService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2383">
-              <caret line="56" column="13" lean-forward="true" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Wearable/src/main/java/com/example/android/wearable/wear/wearnotifications/handlers/MessagingIntentService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="42" column="27" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
+            <state relative-caret-position="-764">
+              <caret line="45" column="11" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -89,7 +67,7 @@
         <entry file="file://$PROJECT_DIR$/Shared/src/main/java/com/example/android/wearable/wear/common/mock/MockDatabase.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="438">
-              <caret line="502" column="65" lean-forward="true" selection-start-line="502" selection-start-column="65" selection-end-line="502" selection-end-column="65" />
+              <caret line="502" column="65" selection-start-line="502" selection-start-column="65" selection-end-line="502" selection-end-column="65" />
             </state>
           </provider>
         </entry>
@@ -107,7 +85,7 @@
         <entry file="file://$PROJECT_DIR$/Wearable/src/main/java/com/example/android/wearable/wear/wearnotifications/CustomRecyclerAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
-              <caret line="61" column="21" lean-forward="true" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
+              <caret line="61" column="21" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -115,8 +93,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Wearable/src/main/java/com/example/android/wearable/wear/wearnotifications/GlobalNotificationBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
-              <caret line="58" column="5" lean-forward="true" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+            <state relative-caret-position="447">
+              <caret line="50" column="43" lean-forward="true" selection-start-line="50" selection-start-column="43" selection-end-line="50" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Wearable/src/main/java/com/example/android/wearable/wear/wearnotifications/handlers/BigTextMainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="40" column="75" lean-forward="true" selection-start-line="40" selection-start-column="75" selection-end-line="40" selection-end-column="75" />
             </state>
           </provider>
         </entry>
@@ -124,8 +111,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Wearable/src/main/java/com/example/android/wearable/wear/wearnotifications/StandaloneMainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="103">
-              <caret line="30" column="44" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
+            <state relative-caret-position="287">
+              <caret line="60" column="68" lean-forward="true" selection-start-line="60" selection-start-column="68" selection-end-line="60" selection-end-column="68" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -133,7 +123,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Wearable/src/main/java/com/example/android/wearable/wear/wearnotifications/ScalingScrollLayoutCallback.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-23">
+            <state relative-caret-position="135">
               <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
             </state>
           </provider>
@@ -147,6 +137,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/Wearable/src/main/java/com/example/android/wearable/wear/wearnotifications/handlers/BigTextIntentService.java" />
         <option value="$PROJECT_DIR$/Wearable/src/main/java/com/example/android/wearable/wear/wearnotifications/StandaloneMainActivity.java" />
       </list>
     </option>
@@ -166,35 +157,6 @@
       <pane id="AndroidView">
         <subPane>
           <expand>
-            <path>
-              <item name="Notifications" type="1abcf292:AndroidViewProjectNode" />
-              <item name="Shared" type="feadf853:AndroidModuleNode" />
-            </path>
-            <path>
-              <item name="Notifications" type="1abcf292:AndroidViewProjectNode" />
-              <item name="Shared" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-            </path>
-            <path>
-              <item name="Notifications" type="1abcf292:AndroidViewProjectNode" />
-              <item name="Shared" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="common" type="cbb59c9e:AndroidPsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Notifications" type="1abcf292:AndroidViewProjectNode" />
-              <item name="Shared" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="common" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="mock" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Notifications" type="1abcf292:AndroidViewProjectNode" />
-              <item name="Shared" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="common" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
             <path>
               <item name="Notifications" type="1abcf292:AndroidViewProjectNode" />
               <item name="Wearable" type="feadf853:AndroidModuleNode" />
@@ -395,14 +357,15 @@
       <window_info id="Designer" order="6" />
       <window_info id="Resources Explorer" order="7" />
       <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Find" weight="0.32970026" />
       <window_info anchor="bottom" id="Run" order="0" />
-      <window_info anchor="bottom" id="Logcat" order="1" weight="0.32833788" />
+      <window_info anchor="bottom" id="Logcat" order="1" visible="true" weight="0.32833788" />
       <window_info anchor="bottom" id="TODO" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" />
       <window_info anchor="bottom" id="Terminal" order="4" />
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="6" />
-      <window_info anchor="bottom" id="Build" order="7" visible="true" weight="0.32833788" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32833788" />
       <window_info anchor="bottom" id="Android Profiler" order="8" />
       <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
@@ -440,24 +403,10 @@
       </provider>
       <provider editor-type-id="android-manifest" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Wearable/src/main/java/com/example/android/wearable/wear/wearnotifications/ScalingScrollLayoutCallback.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-23">
-          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Wearable/src/main/java/com/example/android/wearable/wear/wearnotifications/GlobalNotificationBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="58" column="5" lean-forward="true" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Shared/src/main/java/com/example/android/wearable/wear/common/mock/MockDatabase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="438">
-          <caret line="502" column="65" lean-forward="true" selection-start-line="502" selection-start-column="65" selection-end-line="502" selection-end-column="65" />
+          <caret line="502" column="65" selection-start-line="502" selection-start-column="65" selection-end-line="502" selection-end-column="65" />
         </state>
       </provider>
     </entry>
@@ -472,13 +421,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="26">
           <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Wearable/src/main/java/com/example/android/wearable/wear/wearnotifications/handlers/BigTextIntentService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2383">
-          <caret line="56" column="13" lean-forward="true" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -499,14 +441,45 @@
     <entry file="file://$PROJECT_DIR$/Wearable/src/main/java/com/example/android/wearable/wear/wearnotifications/CustomRecyclerAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
-          <caret line="61" column="21" lean-forward="true" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
+          <caret line="61" column="21" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wearable/src/main/java/com/example/android/wearable/wear/wearnotifications/ScalingScrollLayoutCallback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wearable/src/main/java/com/example/android/wearable/wear/wearnotifications/GlobalNotificationBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="50" column="43" lean-forward="true" selection-start-line="50" selection-start-column="43" selection-end-line="50" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wearable/src/main/java/com/example/android/wearable/wear/wearnotifications/handlers/BigTextMainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="40" column="75" lean-forward="true" selection-start-line="40" selection-start-column="75" selection-end-line="40" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wearable/src/main/java/com/example/android/wearable/wear/wearnotifications/handlers/BigTextIntentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-764">
+          <caret line="45" column="11" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Wearable/src/main/java/com/example/android/wearable/wear/wearnotifications/StandaloneMainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="30" column="44" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
+        <state relative-caret-position="287">
+          <caret line="60" column="68" lean-forward="true" selection-start-line="60" selection-start-column="68" selection-end-line="60" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

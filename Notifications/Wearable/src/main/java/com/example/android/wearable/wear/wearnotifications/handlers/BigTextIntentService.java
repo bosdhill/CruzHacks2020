@@ -163,18 +163,6 @@ public class BigTextIntentService extends IntentService {
 
         // 4. Create additional Actions (Intents) for the Notification.
 
-        // Snooze Action.
-        Intent snoozeIntent = new Intent(this, BigTextIntentService.class);
-        snoozeIntent.setAction(BigTextIntentService.ACTION_SNOOZE);
-
-        PendingIntent snoozePendingIntent = PendingIntent.getService(this, 0, snoozeIntent, 0);
-        NotificationCompat.Action snoozeAction =
-                new NotificationCompat.Action.Builder(
-                        R.drawable.ic_alarm_white_48dp,
-                        "Snooze",
-                        snoozePendingIntent)
-                        .build();
-
         // Dismiss Action
         Intent dismissIntent = new Intent(this, BigTextIntentService.class);
         dismissIntent.setAction(BigTextIntentService.ACTION_DISMISS);
@@ -209,7 +197,6 @@ public class BigTextIntentService extends IntentService {
                 .setCategory(Notification.CATEGORY_REMINDER)
                 .setPriority(bigTextStyleReminderAppData.getPriority())
                 .setVisibility(bigTextStyleReminderAppData.getChannelLockscreenVisibility())
-                .addAction(snoozeAction)
                 .addAction(dismissAction);
 
         /* REPLICATE_NOTIFICATION_STYLE_CODE:
